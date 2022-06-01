@@ -1,0 +1,16 @@
+"""      TIPO PRIMITIVO
+
+>> INT=NUMERO INTEIRO .....EX: 5, -7, 8, 9
+
+
+>> FLOAT=NUMERO FLUTUANTE.....EX: 4,3, 5.6, 2.4
+
+
+>> STR=FRASE EX: 'OLÁ', '6.5', ''
+
+
+>> BOOL=VALORES LOGICOS......EX: TRUE, FALSE
+
+
+"""
+
