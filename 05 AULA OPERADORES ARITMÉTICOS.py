@@ -23,9 +23,9 @@ ORDEM DE PRECEDÊNCIA:
 4°=> +, -
 
 5 => OPERADORES RELACIONAICAIS => ==, !=,<=,>=,>,<
-6 => LÓGICO not
-7 => LÓGICO and
-8 => LÍGICO or
+6 => LÓGICO => not
+7 => LÓGICO => and
+8 => LÍGICO  => or
 
 ======================================================"""
 
